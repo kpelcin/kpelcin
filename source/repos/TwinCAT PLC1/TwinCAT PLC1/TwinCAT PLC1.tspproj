@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<TcSmProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2012/07/TcSmProject" TcSmVersion="1.0" TcVersion="3.1.4024.10">
-	<Project ProjectGUID="{5FDAB11B-1703-4659-A7FC-08C8D371DD2E}" Target64Bit="true" ShowHideConfigurations="#x106">
-		<Plc>
-			<Project GUID="{5A46EC51-F25C-432A-B6A0-9A72846A75C7}" Name="Untitled1" PrjFilePath="Untitled1\Untitled1.plcproj" TmcFilePath="Untitled1\Untitled1.tmc" ReloadTmc="true" AmsPort="851" FileArchiveSettings="#x000e"/>
-		</Plc>
-	</Project>
-</TcSmProject>
