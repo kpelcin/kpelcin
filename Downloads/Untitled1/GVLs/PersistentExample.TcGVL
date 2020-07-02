@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.4">
+  <GVL Name="PersistentExample" Id="{7c43273e-a2be-4fc7-a2ee-c77f60bdd238}">
+    <Declaration><![CDATA[{attribute 'qualified_only'}
+VAR_GLOBAL PERSISTENT
+	MyPersistentnteger : INT := 10;
+END_VAR
+VAR_GLOBAL 
+	MyNonPersistantInteger : INT := 7;
+END_VAR
+]]></Declaration>
+  </GVL>
+</TcPlcObject>
